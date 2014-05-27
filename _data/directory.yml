@@ -46,3 +46,9 @@
   description: Goal-tracking with teeth
   join_date: 2014-05-07
   slug: beeminder
+  
+- name: Camplight
+  url: https://www.camplight.net
+  description: "Decentralized web development and design agency"
+  join_date: 2014-05-27
+  slug: camplight
